@@ -1,0 +1,568 @@
+{
+  "Booking.pdf": {
+    "keywords": [
+      {
+        "keyword": "data inventory publication",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "The obligation for VLOPs to publish an overview of their data inventory is directly related to data access requirements, highlighting the challenges in transparency and the burden it imposes on platforms."
+      },
+      {
+        "keyword": "legal uncertainty",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "The undefined and broad nature of the obligation to publish a data inventory creates legal uncertainty, impacting compliance and interpretation of the regulation."
+      },
+      {
+        "keyword": "disproportionate burden",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Maintaining a comprehensive data inventory is resource-intensive, especially for large digital platforms, indicating a significant technical and operational challenge."
+      },
+      {
+        "keyword": "independence from commercial interests",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "The requirement for researchers to demonstrate independence from commercial interests to access data introduces a legal and procedural barrier."
+      },
+      {
+        "keyword": "misuse of data",
+        "score": 0.7,
+        "category": "privacy",
+        "explanation": "Concerns about the potential misuse of accessed data by researchers for purposes beyond their stated research objectives, including commercial uses, highlight privacy and security issues."
+      },
+      {
+        "keyword": "dialogue between DSC and VLOP",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "The proposal for dialogue and amendment opportunities in formulating access requests reflects stakeholder concerns about feasibility and practicality of data access modalities."
+      },
+      {
+        "keyword": "access to full research application",
+        "score": 0.8,
+        "category": "data_access",
+        "explanation": "The suggestion that data providers should have access to the full details of research applications, rather than summaries, is relevant to ensuring that data access requests are fully understood and appropriately managed."
+      },
+      {
+        "keyword": "necessary and proportionate access",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "The principle that data access requests must be necessary and proportionate, and contribute to the research purposes as defined by the regulation, underscores the legal framework governing data access."
+      }
+    ]
+  },
+  "Zalando.pdf": {
+    "keywords": [
+      {
+        "keyword": "public-facing data inventory",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "The requirement for VLOPs to maintain a public data inventory directly relates to data access, highlighting the scope and availability of data for research."
+      },
+      {
+        "keyword": "compliance feasibility",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "This term addresses the legal and practical challenges in meeting regulatory requirements, particularly in relation to data access provisions."
+      },
+      {
+        "keyword": "protection of trade secrets",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "This concern is relevant due to the tension between making data accessible for research and safeguarding proprietary information."
+      },
+      {
+        "keyword": "data security and confidentiality standards",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Technical standards for data security and confidentiality are crucial for ensuring that data access does not compromise data integrity or privacy."
+      },
+      {
+        "keyword": "vetted researchers",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "This term highlights the role and concerns of a specific stakeholder group in the context of data access under the DSA."
+      },
+      {
+        "keyword": "data access requests",
+        "score": 0.8,
+        "category": "data_access",
+        "explanation": "The process and criteria for handling data access requests are central to the regulation of data access for research purposes."
+      },
+      {
+        "keyword": "regulatory dialogue",
+        "score": 0.7,
+        "category": "legal",
+        "explanation": "Suggests the need for ongoing communication between data providers and regulators to address and resolve data access issues."
+      },
+      {
+        "keyword": "cost and procedural complexity",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Refers to the technical and administrative challenges and expenses involved in complying with data access regulations."
+      },
+      {
+        "keyword": "secure processing environments",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "The need for secure environments for data processing is a key technical requirement for safe data access and use."
+      },
+      {
+        "keyword": "safeguarding of trade secrets",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "This is a specific aspect of privacy and data protection, focusing on the confidentiality of business information."
+      }
+    ]
+  },
+  "Meta.pdf": {
+    "keywords": [
+      {
+        "keyword": "data access requirements",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "Refers to the specific conditions and protocols under which data must be shared, directly related to the ability to access platform data."
+      },
+      {
+        "keyword": "technical conditions and procedures",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Mentions the technical aspects that need to be addressed to facilitate data sharing, indicating implementation challenges."
+      },
+      {
+        "keyword": "privacy and security concerns",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Highlights the importance of protecting user data and ensuring secure data handling, a key concern in data access."
+      },
+      {
+        "keyword": "legal basis for processing under GDPR",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Points to the compliance with legal frameworks, specifically GDPR, which is crucial for lawful data processing and sharing."
+      },
+      {
+        "keyword": "vetting standards for researchers",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Refers to the need for thorough evaluation of researchers' qualifications and plans for data use, indicating both privacy and technical barriers."
+      },
+      {
+        "keyword": "providers' rights to challenge or deny requests",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Emphasizes the legal and operational considerations providers must have to refuse data access requests, underlining stakeholder concerns."
+      },
+      {
+        "keyword": "alternative data sources",
+        "score": 0.7,
+        "category": "data_access",
+        "explanation": "Suggests the possibility of accessing data through other means, which could alleviate some data access challenges."
+      },
+      {
+        "keyword": "data accuracy and completeness",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Addresses the quality of data required for research, pointing to technical challenges in ensuring data integrity."
+      },
+      {
+        "keyword": "conflict of interest",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Indicates potential biases or competing interests that could affect the fairness and integrity of the data access process."
+      },
+      {
+        "keyword": "user privacy expectations",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Refers to the need to align data sharing practices with what users expect in terms of their privacy, a critical aspect of user trust."
+      }
+    ]
+  },
+  "Wikimedia.pdf": {
+    "keywords": [
+      {
+        "keyword": "data minimisation principles",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Relevant to how the Wikimedia Foundation approaches the collection and retention of user data, emphasizing privacy concerns."
+      },
+      {
+        "keyword": "transparency",
+        "score": 0.8,
+        "category": "data_access",
+        "explanation": "Highlights the Wikimedia Foundation's efforts to make data accessible and transparent to users and researchers."
+      },
+      {
+        "keyword": "Digital Services Act (DSA)",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Mentions the regulatory framework affecting data access and platform responsibilities."
+      },
+      {
+        "keyword": "Secure Processing Environment (SPE)",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Refers to a technical solution proposed for secure data access, highlighting both technical and privacy concerns."
+      },
+      {
+        "keyword": "freedom of expression and personal safety",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Emphasizes the privacy and safety considerations necessary when accessing data, especially in sensitive contexts."
+      },
+      {
+        "keyword": "data inventory",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "Refers to a legal requirement that could pose challenges in terms of compliance and potential exposure to risks."
+      },
+      {
+        "keyword": "confidential information",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Highlights concerns about protecting sensitive data from unauthorized access or exposure."
+      },
+      {
+        "keyword": "nonprofit character",
+        "score": 0.8,
+        "category": "stakeholder",
+        "explanation": "Points to the specific challenges and considerations for nonprofit organizations under the DSA."
+      },
+      {
+        "keyword": "burden on data provider",
+        "score": 0.9,
+        "category": "stakeholder",
+        "explanation": "Addresses the concerns regarding the workload and resource allocation for data providers, especially nonprofits."
+      },
+      {
+        "keyword": "General Data Protection Regulation (GDPR) compliance",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Refers to the legal obligations and challenges related to ensuring GDPR compliance in research projects."
+      },
+      {
+        "keyword": "harassment and pressure",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Indicates the risks associated with data access, including potential misuse of information to target individuals."
+      },
+      {
+        "keyword": "independent monitoring or auditing",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Suggests the need for technical measures to ensure secure and compliant handling of sensitive data."
+      },
+      {
+        "keyword": "proportionate burden",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Raises concerns about the fairness and manageability of the obligations placed on data providers."
+      }
+    ]
+  },
+  "Snap.pdf": {
+    "keywords": [
+      {
+        "keyword": "data inventory publication",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "The requirement for VLOPs to publish a data inventory is directly related to data access, highlighting the balance between transparency and security."
+      },
+      {
+        "keyword": "security risks",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Identifies the privacy and security concerns associated with making data inventories public, which could facilitate targeted attacks."
+      },
+      {
+        "keyword": "privacy preserving way",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Emphasizes the need to consider privacy and security in the disclosure of data access modalities."
+      },
+      {
+        "keyword": "VLOPs assessment",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Highlights the importance of including Very Large Online Platforms' input in the data access request process, reflecting stakeholder concerns."
+      },
+      {
+        "keyword": "tight timeline",
+        "score": 0.7,
+        "category": "technical",
+        "explanation": "Points to the implementation challenge related to the short deadlines set for processing data access requests."
+      },
+      {
+        "keyword": "transparency requirements",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "Refers to the legal barriers and requirements for researchers to demonstrate their independence and meet confidentiality and data security standards."
+      },
+      {
+        "keyword": "legal safeguards",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Indicates the need for clear legal frameworks to govern data sharing agreements, addressing compliance and legal barriers."
+      },
+      {
+        "keyword": "appropriate access modalities",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "Concerns the technical and logistical aspects of how data should be made available to researchers, directly impacting data access."
+      },
+      {
+        "keyword": "cost sharing mechanism",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Addresses the financial and technical challenges of providing isolated and secure processing environments for data access."
+      },
+      {
+        "keyword": "data deletion evidence",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Highlights privacy concerns related to ensuring that all accessed data is properly deleted after research completion."
+      },
+      {
+        "keyword": "dispute handling",
+        "score": 0.7,
+        "category": "legal",
+        "explanation": "Points to the legal and financial aspects of managing disputes over data access, including cost responsibilities."
+      }
+    ]
+  },
+  "TikTok.pdf": {
+    "keywords": [
+      {
+        "keyword": "data access requirements",
+        "score": 1.0,
+        "category": "data_access",
+        "explanation": "Directly relates to the conditions under which data must be shared, highlighting the core focus of the document."
+      },
+      {
+        "keyword": "technical conditions and procedures",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Refers to the specific technical guidelines and processes that must be followed for data sharing, indicating implementation challenges."
+      },
+      {
+        "keyword": "confidential and commercially sensitive information",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Highlights concerns related to the protection of sensitive data, which is a key aspect of privacy considerations."
+      },
+      {
+        "keyword": "protection of confidential information",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Emphasizes the importance of safeguarding confidential data, aligning with privacy and security concerns."
+      },
+      {
+        "keyword": "data inventory",
+        "score": 0.7,
+        "category": "data_access",
+        "explanation": "Refers to the listing of available datasets, which is crucial for understanding what data can be accessed."
+      },
+      {
+        "keyword": "data modalities",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Pertains to the formats and methods through which data can be accessed, indicating technical considerations for data sharing."
+      },
+      {
+        "keyword": "significant vulnerabilities",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Points to concerns about potential risks to data security and privacy through the data access process."
+      },
+      {
+        "keyword": "Digital Services Coordinator (DSC)",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Identifies a key stakeholder involved in the regulation and oversight of data access, highlighting the role of regulatory bodies."
+      },
+      {
+        "keyword": "access modalities",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "Focuses on the methods of data access, which are central to the technical implementation of data sharing."
+      },
+      {
+        "keyword": "protection of personal data",
+        "score": 1.0,
+        "category": "privacy",
+        "explanation": "Directly addresses the need to safeguard personal information, a fundamental aspect of privacy concerns in data access."
+      },
+      {
+        "keyword": "legal compliance",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "Implicit in the discussion of regulatory requirements and amendments, indicating the importance of adhering to legal standards."
+      },
+      {
+        "keyword": "stakeholder feedback",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Shows the process of involving various stakeholders in the regulatory process, emphasizing the importance of their input."
+      },
+      {
+        "keyword": "implementation challenges",
+        "score": 0.9,
+        "category": "technical",
+        "explanation": "General term that encompasses the difficulties in executing the requirements of the regulation, relevant to technical barriers."
+      }
+    ]
+  },
+  "Pinterest.pdf": {
+    "keywords": [
+      {
+        "keyword": "data access for researchers",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "Directly relates to the provision of data to researchers, a core aspect of the Digital Services Act's objectives."
+      },
+      {
+        "keyword": "protecting users' privacy",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Highlights the importance of user privacy in the context of data access and regulation."
+      },
+      {
+        "keyword": "compliance burdens",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "Refers to the legal challenges and obligations platforms face in adhering to the regulation."
+      },
+      {
+        "keyword": "confidential information",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Points to concerns about the security and privacy of sensitive data."
+      },
+      {
+        "keyword": "content moderation practices",
+        "score": 0.7,
+        "category": "technical",
+        "explanation": "Technical efforts to manage and control the content on the platform, relevant to discussions on data access and safety."
+      },
+      {
+        "keyword": "data inventory publication",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "Specific requirement for platforms to disclose their data holdings, directly impacting data access."
+      },
+      {
+        "keyword": "technical conditions for data sharing",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Refers to the technical specifications and protocols for safely and effectively sharing data."
+      },
+      {
+        "keyword": "trade secret information",
+        "score": 0.8,
+        "category": "privacy",
+        "explanation": "Concerns about the potential exposure of proprietary or sensitive business information."
+      },
+      {
+        "keyword": "vetted researchers",
+        "score": 0.8,
+        "category": "stakeholder",
+        "explanation": "Identifies a specific group of stakeholders (researchers) and the need for a process to ensure they are appropriately qualified."
+      },
+      {
+        "keyword": "systemic risks",
+        "score": 0.8,
+        "category": "data_access",
+        "explanation": "Refers to the broader societal or systemic issues that research on platform data might aim to address."
+      },
+      {
+        "keyword": "evolving online trends",
+        "score": 0.7,
+        "category": "technical",
+        "explanation": "Acknowledges the dynamic nature of online platforms and the challenges this poses for regulation and data access."
+      },
+      {
+        "keyword": "digital services act",
+        "score": 1.0,
+        "category": "legal",
+        "explanation": "The foundational legal framework being discussed, which governs data access and platform regulation."
+      }
+    ]
+  },
+  "Google.pdf": {
+    "keywords": [
+      {
+        "keyword": "Proactive Consultation",
+        "score": 0.9,
+        "category": "data_access",
+        "explanation": "Highlights the need for data providers to be involved in determining access modalities, directly impacting data access requirements."
+      },
+      {
+        "keyword": "Access Restrictions",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Addresses the necessity of imposing restrictions to ensure data privacy and security, relevant to privacy concerns."
+      },
+      {
+        "keyword": "Secure processing environments",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Refers to the technical infrastructure required to safely process and provide access to data."
+      },
+      {
+        "keyword": "Application Summaries",
+        "score": 0.7,
+        "category": "stakeholder",
+        "explanation": "Indicates stakeholder concerns regarding the adequacy of information shared about research applications."
+      },
+      {
+        "keyword": "Data Protection Measures",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Emphasizes the importance of detailed data protection plans from researchers, highlighting privacy and security concerns."
+      },
+      {
+        "keyword": "Data Misuse",
+        "score": 0.9,
+        "category": "legal",
+        "explanation": "Points to legal barriers and compliance issues related to unauthorized use of data."
+      },
+      {
+        "keyword": "Data Subject Rights",
+        "score": 0.9,
+        "category": "privacy",
+        "explanation": "Focuses on the need to protect individual privacy rights in the context of data access."
+      },
+      {
+        "keyword": "Researcher Affiliation",
+        "score": 0.7,
+        "category": "legal",
+        "explanation": "Relates to legal and regulatory definitions affecting who can access data."
+      },
+      {
+        "keyword": "Access Credentials",
+        "score": 0.8,
+        "category": "technical",
+        "explanation": "Concerns the technical and security measures for granting data access to specific individuals."
+      },
+      {
+        "keyword": "Timelines",
+        "score": 0.6,
+        "category": "implementation",
+        "explanation": "Refers to the challenges related to the practical implementation of data access requests and compliance timelines."
+      },
+      {
+        "keyword": "GDPR",
+        "score": 1.0,
+        "category": "legal",
+        "explanation": "Directly relates to legal compliance with data protection regulations, a core aspect of managing data access."
+      },
+      {
+        "keyword": "International transfer",
+        "score": 0.8,
+        "category": "legal",
+        "explanation": "Highlights legal complexities and barriers when data access involves transferring data across jurisdictions."
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "Booking.pdf": {
+    "keywords": [
+      {
+        "word": "draft data access",
+        "score": 0.6918920278549194,
+        "category": "data_access"
+      },
+      {
+        "word": "it requirements",
+        "score": 0.48622265458106995,
+        "category": "other"
+      },
+      {
+        "word": "miscaleneous the data",
+        "score": 0.42701828479766846,
+        "category": "data_access"
+      },
+      {
+        "word": "providers to limit",
+        "score": 0.4013109803199768,
+        "category": "other"
+      },
+      {
+        "word": "response to consultation",
+        "score": 0.3320847749710083,
+        "category": "other"
+      },
+      {
+        "word": "allegations of violating",
+        "score": 0.31760454177856445,
+        "category": "other"
+      },
+      {
+        "word": "inventory available on",
+        "score": 0.298821359872818,
+        "category": "other"
+      },
+      {
+        "word": "online search engines",
+        "score": 0.23378288745880127,
+        "category": "other"
+      },
+      {
+        "word": "notion summary is",
+        "score": 0.22113357484340668,
+        "category": "other"
+      },
+      {
+        "word": "40 dsa2",
+        "score": 0.21026813983917236,
+        "category": "other"
+      },
+      {
+        "word": "independence from commercial",
+        "score": 0.2013241946697235,
+        "category": "other"
+      }
+    ]
+  },
+  "Zalando.pdf": {
+    "keywords": [
+      {
+        "word": "confidentiality or",
+        "score": 0.6107532978057861,
+        "category": "other"
+      },
+      {
+        "word": "facing data inventories",
+        "score": 0.5906755924224854,
+        "category": "data_access"
+      },
+      {
+        "word": "brand fashion",
+        "score": 0.2995615601539612,
+        "category": "other"
+      },
+      {
+        "word": "include rules for",
+        "score": 0.2888500988483429,
+        "category": "other"
+      },
+      {
+        "word": "to consumer b2c",
+        "score": 0.2871286869049072,
+        "category": "other"
+      },
+      {
+        "word": "zalando is europe",
+        "score": 0.275795578956604,
+        "category": "other"
+      },
+      {
+        "word": "services act december",
+        "score": 0.23980844020843506,
+        "category": "other"
+      },
+      {
+        "word": "role in assessing",
+        "score": 0.21553146839141846,
+        "category": "other"
+      },
+      {
+        "word": "berlin eingetragen beim",
+        "score": 0.20778745412826538,
+        "category": "other"
+      },
+      {
+        "word": "across vlops and",
+        "score": 0.20298612117767334,
+        "category": "other"
+      }
+    ]
+  },
+  "Meta.pdf": {
+    "keywords": [
+      {
+        "word": "defined standards for",
+        "score": 0.45843324065208435,
+        "category": "other"
+      },
+      {
+        "word": "where data is",
+        "score": 0.45214542746543884,
+        "category": "data_access"
+      },
+      {
+        "word": "competing privacy security",
+        "score": 0.40601539611816406,
+        "category": "data_access"
+      },
+      {
+        "word": "draft delegated act",
+        "score": 0.34118884801864624,
+        "category": "other"
+      },
+      {
+        "word": "and procedures",
+        "score": 0.3114314079284668,
+        "category": "other"
+      },
+      {
+        "word": "experts informing reasoned",
+        "score": 0.2674506902694702,
+        "category": "other"
+      },
+      {
+        "word": "limit",
+        "score": 0.2641652524471283,
+        "category": "other"
+      },
+      {
+        "word": "ireland limited mpil",
+        "score": 0.23741838335990906,
+        "category": "other"
+      },
+      {
+        "word": "we request",
+        "score": 0.23393169045448303,
+        "category": "other"
+      },
+      {
+        "word": "meta does not",
+        "score": 0.2127486914396286,
+        "category": "other"
+      }
+    ]
+  },
+  "Wikimedia.pdf": {
+    "keywords": [
+      {
+        "word": "genuine privacy benefits",
+        "score": 0.5218145847320557,
+        "category": "data_access"
+      },
+      {
+        "word": "wikipedia anonymously",
+        "score": 0.5211224555969238,
+        "category": "other"
+      },
+      {
+        "word": "data will",
+        "score": 0.444514662027359,
+        "category": "data_access"
+      },
+      {
+        "word": "access modalities can",
+        "score": 0.3660257160663605,
+        "category": "data_access"
+      },
+      {
+        "word": "moderation decisions",
+        "score": 0.3315509259700775,
+        "category": "other"
+      },
+      {
+        "word": "include redaction and",
+        "score": 0.26344776153564453,
+        "category": "other"
+      },
+      {
+        "word": "resources size",
+        "score": 0.2630192041397095,
+        "category": "other"
+      },
+      {
+        "word": "safety function",
+        "score": 0.24949826300144196,
+        "category": "other"
+      },
+      {
+        "word": "the foundation like",
+        "score": 0.24591021239757538,
+        "category": "other"
+      },
+      {
+        "word": "account requiring minimal",
+        "score": 0.22475269436836243,
+        "category": "other"
+      },
+      {
+        "word": "volunteer is contributing",
+        "score": 0.21940311789512634,
+        "category": "other"
+      }
+    ]
+  },
+  "Snap.pdf": {
+    "keywords": [
+      {
+        "word": "data permissible use",
+        "score": 0.6965229511260986,
+        "category": "data_access"
+      },
+      {
+        "word": "further transparency",
+        "score": 0.568207323551178,
+        "category": "other"
+      },
+      {
+        "word": "service coordinators dscs",
+        "score": 0.32723039388656616,
+        "category": "other"
+      },
+      {
+        "word": "terminating access",
+        "score": 0.2962765097618103,
+        "category": "data_access"
+      },
+      {
+        "word": "draft delegated on",
+        "score": 0.24510672688484192,
+        "category": "other"
+      },
+      {
+        "word": "license agreement to",
+        "score": 0.24126702547073364,
+        "category": "other"
+      },
+      {
+        "word": "is sought",
+        "score": 0.2404470443725586,
+        "category": "other"
+      },
+      {
+        "word": "platforms vlops to",
+        "score": 0.22711676359176636,
+        "category": "other"
+      },
+      {
+        "word": "the ddr should",
+        "score": 0.22534695267677307,
+        "category": "other"
+      },
+      {
+        "word": "framework for negligent",
+        "score": 0.20074798166751862,
+        "category": "other"
+      }
+    ]
+  },
+  "TikTok.pdf": {
+    "keywords": [
+      {
+        "word": "data access portal",
+        "score": 0.6987406015396118,
+        "category": "data_access"
+      },
+      {
+        "word": "protection obligations",
+        "score": 0.4796253740787506,
+        "category": "other"
+      },
+      {
+        "word": "researcher and the",
+        "score": 0.46060484647750854,
+        "category": "other"
+      },
+      {
+        "word": "information in draft",
+        "score": 0.3508146405220032,
+        "category": "other"
+      },
+      {
+        "word": "dsc determined",
+        "score": 0.32319819927215576,
+        "category": "other"
+      },
+      {
+        "word": "online interfaces emphasis",
+        "score": 0.3125368356704712,
+        "category": "other"
+      },
+      {
+        "word": "provider comments where",
+        "score": 0.30326223373413086,
+        "category": "other"
+      },
+      {
+        "word": "context tiktok submits",
+        "score": 0.22025763988494873,
+        "category": "other"
+      }
+    ]
+  },
+  "Pinterest.pdf": {
+    "keywords": [
+      {
+        "word": "new transparency",
+        "score": 0.5924358367919922,
+        "category": "other"
+      },
+      {
+        "word": "limited interest researchers",
+        "score": 0.49019262194633484,
+        "category": "other"
+      },
+      {
+        "word": "data types",
+        "score": 0.4803864657878876,
+        "category": "data_access"
+      },
+      {
+        "word": "to making pinterest",
+        "score": 0.42962849140167236,
+        "category": "other"
+      },
+      {
+        "word": "safeguarding companies from",
+        "score": 0.3854537010192871,
+        "category": "other"
+      },
+      {
+        "word": "platforms publish",
+        "score": 0.35063111782073975,
+        "category": "other"
+      },
+      {
+        "word": "browsing and saving",
+        "score": 0.33569347858428955,
+        "category": "other"
+      },
+      {
+        "word": "service helps users",
+        "score": 0.3299620747566223,
+        "category": "other"
+      },
+      {
+        "word": "is visual search",
+        "score": 0.25691449642181396,
+        "category": "other"
+      },
+      {
+        "word": "draft delegated requires",
+        "score": 0.240275040268898,
+        "category": "other"
+      },
+      {
+        "word": "update our",
+        "score": 0.21131213009357452,
+        "category": "other"
+      }
+    ]
+  },
+  "Google.pdf": {
+    "keywords": [
+      {
+        "word": "data access and",
+        "score": 0.8218453526496887,
+        "category": "data_access"
+      },
+      {
+        "word": "dublin ireland standard",
+        "score": 0.35809195041656494,
+        "category": "other"
+      },
+      {
+        "word": "deletion requirements",
+        "score": 0.356243371963501,
+        "category": "other"
+      },
+      {
+        "word": "weighing research applications",
+        "score": 0.30171045660972595,
+        "category": "other"
+      },
+      {
+        "word": "modalities without consulting",
+        "score": 0.2985405921936035,
+        "category": "other"
+      },
+      {
+        "word": "only safeguards end",
+        "score": 0.2893981337547302,
+        "category": "other"
+      },
+      {
+        "word": "draft delegated act",
+        "score": 0.28838884830474854,
+        "category": "other"
+      },
+      {
+        "word": "the dsc not",
+        "score": 0.27564722299575806,
+        "category": "other"
+      },
+      {
+        "word": "or pseudonymize",
+        "score": 0.25814032554626465,
+        "category": "other"
+      },
+      {
+        "word": "lower google",
+        "score": 0.2334401160478592,
+        "category": "other"
+      },
+      {
+        "word": "preparing to fulfill",
+        "score": 0.2328697144985199,
+        "category": "other"
+      },
+      {
+        "word": "providers to notify",
+        "score": 0.22057154774665833,
+        "category": "other"
+      }
+    ]
+  }
+}
